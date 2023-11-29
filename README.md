@@ -23,7 +23,7 @@ EasyLocker is a password security interface which enables users to check the str
 
 ## To run the repository on the system:
 
-1. Clone the repository using "git clone https://github.com/tiwarishubham635/EasyLocker.git"
+1. Clone the repository using "git clone https://github.com/pallavimshr/EasyLocker.git"
 2. Run the command
 
 ```
